@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rafael Santos
-- 👀 I’m interested in me tornar um DevOps
+- 👀 I’m interested in me tornar DevOps
 - 🌱 I’m currently learning .Net, c#
 - 💞️ I’m looking to collaborate on algo que faça com eu consiga adquirir mais conhecimento
 - 📫 How to reach me ...
